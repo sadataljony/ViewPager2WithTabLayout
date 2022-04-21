@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPager2 With TabLayout</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="third_fragment">Third Fragment</string>
+    <string name="_01">01</string>
+    <string name="_02">02</string>
+    <string name="_03">03</string>
+</resources>
